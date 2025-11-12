@@ -20,17 +20,6 @@
 
 <br>
 
-
-- Hello, and welcome to my GitHub profile! My name is Cheng Zheng, I am a technical artist and front-end engineer dedicated to game development, skilled in UI design, 3D modeling, and graphics programming. My goal is to create captivating virtual worlds for players to explore.
-
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
-
-- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
-
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:jackzhenghw@gmail.com">jackzhenghw@gmail.com</a>
-
-- Thank you for visiting my profile, and I look forward to connecting with you!
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
