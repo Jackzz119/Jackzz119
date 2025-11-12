@@ -20,6 +20,14 @@
 
 <br>
 
+- 👋 Hi there! I’m a Senior Frontend Lead & Full-Stack Engineer with a strong background in UI/UX design, .NET, Java, and cross-platform application development.
+
+- My work blends creative engineering and system-level thinking — from building high-performance WebGL experiences and scalable Next.js / React architectures, to designing efficient data flows powered by tools like Redux Toolkit, Zustand, and Protobuf.js.
+
+- I’m passionate about crafting software that feels as good as it performs — balancing clean code, user-centric design, and technical scalability. With hands-on experience across frontend frameworks, backend APIs, and cloud infrastructure (AWS, Docker, CI/CD), I aim to deliver products that are both robust and delightful to use.
+
+- I love diving deep into complex technical challenges, exploring new stacks, and continuously improving how users interact with software — whether on web, desktop, or mobile.
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
