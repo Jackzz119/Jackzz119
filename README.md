@@ -36,9 +36,6 @@
 
 -----
 
-<br>
-<br>
-
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -53,19 +50,7 @@
 
 <br>
 
-<li>
-<a href="https://twitter.com/Jackzz119" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Jackzz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
-</a>
-</li>
-
 <br>
-
-<li>
-<a href="jackzhenghw@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Jackzz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
-</a>
-</li>
 	
 </ul>
 </div>
