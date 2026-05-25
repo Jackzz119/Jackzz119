@@ -20,7 +20,7 @@
 
 <br>
 
-- 👋 Hi there! I’m a Senior Software Engineer & Full-Stack Engineer with a strong background in React, Java, Spring Boot, .NET, UI/UX design and cross-platform application development.
+- 👋 Hi there! I’m a Senior Software Engineer & Full-Stack Engineer with a strong background in React, Next.js, Java, Spring Boot, .NET, UI/UX design and cross-platform application development.
 
 - My work blends creative engineering and system-level thinking — from building high-performance WebGL experiences and scalable Next.js / React frontend and Java/Spring Boot backend architectures, to designing efficient data flows powered by tools like Redux Toolkit, Zustand, and Protobuf.js.
 
